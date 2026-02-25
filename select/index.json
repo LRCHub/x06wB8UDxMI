@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "裏切り者のレクイエム",
+  "base_artist": "ハセガワダイスケ",
+  "createdAt": "2026-02-25T02:32:15.021596Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム",
+      "artist": "ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/01_裏切り者のレクイエム_ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム- English Ver.-",
+      "artist": "ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/02_裏切り者のレクイエム-_English_Ver.-_ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム",
+      "artist": "Daisuke Hasegawa - Topic",
+      "has_synced": true,
+      "path": "select/03_裏切り者のレクイエム_Daisuke_Hasegawa_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム",
+      "artist": "Daisuke Hasegawa",
+      "has_synced": true,
+      "path": "select/04_裏切り者のレクイエム_Daisuke_Hasegawa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム Diavolo Ver.",
+      "artist": "Daisuke Hasegawa",
+      "has_synced": true,
+      "path": "select/05_裏切り者のレクイエム_Diavolo_Ver._Daisuke_Hasegawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム –English Ver.–",
+      "artist": "Daisuke Hasegawa",
+      "has_synced": true,
+      "path": "select/06_裏切り者のレクイエム_–English_Ver.–_Daisuke_Hasegawa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム Giorno Ver.",
+      "artist": "ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/07_裏切り者のレクイエム_Giorno_Ver._ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム Diavolo Ver.",
+      "artist": "ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/08_裏切り者のレクイエム_Diavolo_Ver._ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム –English Ver.–",
+      "artist": "ハセガワダイスケ",
+      "has_synced": true,
+      "path": "select/09_裏切り者のレクイエム_–English_Ver.–_ハセガワダイスケ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム - Giorno Ver.",
+      "artist": "Yugo Kanno",
+      "has_synced": true,
+      "path": "select/10_裏切り者のレクイエム_-_Giorno_Ver._Yugo_Kanno.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム Giorno Ver. - Uragirimonono Requiem Giorno Ver.",
+      "artist": "Yugo Kanno",
+      "has_synced": true,
+      "path": "select/11_裏切り者のレクイエム_Giorno_Ver._-_Uragirimonono_Requiem_Giorno_Ver._Yugo_Kanno.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム --English Ver.--",
+      "artist": "Daisuke Hasegawa",
+      "has_synced": true,
+      "path": "select/12_裏切り者のレクイエム_--English_Ver.--_Daisuke_Hasegawa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム - Diavolo Ver.",
+      "artist": "Yugo Kanno",
+      "has_synced": false,
+      "path": "select/13_裏切り者のレクイエム_-_Diavolo_Ver._Yugo_Kanno.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "裏切り者のレクイエム",
+      "artist": "ハセガワ ダイスケ",
+      "has_synced": true,
+      "path": "select/14_裏切り者のレクイエム_ハセガワ_ダイスケ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裏切り者のレクイエム",
+      "artist": "ハセガワダイスケ",
+      "has_synced": false,
+      "path": "select/pl_01_裏切り者のレクイエム_ハセガワダイスケ.txt"
+    }
+  ]
+}
